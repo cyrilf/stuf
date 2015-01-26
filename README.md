@@ -8,6 +8,8 @@ This README is intended to help get you started. Definitely update and improve t
 [hubot]: http://hubot.github.com
 [generator-hubot]: https://github.com/github/generator-hubot
 
+> [>>> useful article about installing it on ubuntu](http://kvz.io/blog/2012/11/20/installing-hubot-on-ubuntu/)
+
 ### Running stuf Locally
 
 You can test your hubot by running the following.
